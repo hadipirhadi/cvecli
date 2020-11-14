@@ -34,9 +34,9 @@ setup (
      long_description_content_type="text/markdown",
      license='MIT',
      url='https://github.com/hadipirhadi/cvecli.git',
-     download_url='https://github.com/hadipirhadi/cver/archive/1.0.0.tar.gz',
+     download_url='https://github.com/hadipirhadi/cvecli/archive/master.zip',
       dependency_links=dependency_links,
-      author_email='oyetoketoby80@gmail.com',
+      author_email='hphadi@hotmail.com',
       classifiers=[
             "License :: OSI Approved :: MIT License",
             "Programming Language :: Python :: 2.7",
